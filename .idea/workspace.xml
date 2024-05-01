@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da35af2-dc79-4c3c-afb7-311bdc8a52bc" name="Changes" comment="">
+    <list default="true" id="5da35af2-dc79-4c3c-afb7-311bdc8a52bc" name="Changes" comment="meds left">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/lowest_price.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -19,6 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -78,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714537151350</updated>
     </task>
+    <task id="LOCAL-00001" summary="meds left">
+      <option name="closed" value="true" />
+      <created>1714568492927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714568492927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="meds left" />
+    <option name="LAST_COMMIT_MESSAGE" value="meds left" />
   </component>
 </project>
